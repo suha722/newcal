@@ -1,0 +1,15 @@
+C:\Users\2020\source\repos\calculater\calculater\bin\Debug\netcoreapp3.1\calculater.exe
+C:\Users\2020\source\repos\calculater\calculater\bin\Debug\netcoreapp3.1\calculater.deps.json
+C:\Users\2020\source\repos\calculater\calculater\bin\Debug\netcoreapp3.1\calculater.runtimeconfig.json
+C:\Users\2020\source\repos\calculater\calculater\bin\Debug\netcoreapp3.1\calculater.runtimeconfig.dev.json
+C:\Users\2020\source\repos\calculater\calculater\bin\Debug\netcoreapp3.1\calculater.dll
+C:\Users\2020\source\repos\calculater\calculater\bin\Debug\netcoreapp3.1\calculater.pdb
+C:\Users\2020\source\repos\calculater\calculater\obj\Debug\netcoreapp3.1\calculater.csprojAssemblyReference.cache
+C:\Users\2020\source\repos\calculater\calculater\obj\Debug\netcoreapp3.1\calculater.Form1.resources
+C:\Users\2020\source\repos\calculater\calculater\obj\Debug\netcoreapp3.1\calculater.csproj.GenerateResource.cache
+C:\Users\2020\source\repos\calculater\calculater\obj\Debug\netcoreapp3.1\calculater.AssemblyInfoInputs.cache
+C:\Users\2020\source\repos\calculater\calculater\obj\Debug\netcoreapp3.1\calculater.AssemblyInfo.cs
+C:\Users\2020\source\repos\calculater\calculater\obj\Debug\netcoreapp3.1\calculater.csproj.CoreCompileInputs.cache
+C:\Users\2020\source\repos\calculater\calculater\obj\Debug\netcoreapp3.1\calculater.dll
+C:\Users\2020\source\repos\calculater\calculater\obj\Debug\netcoreapp3.1\calculater.pdb
+C:\Users\2020\source\repos\calculater\calculater\obj\Debug\netcoreapp3.1\calculater.genruntimeconfig.cache
